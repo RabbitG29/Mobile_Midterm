@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">모바일설계 중간프로젝트</string>
+    <string name="title_home">List</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Images</string>
+    <string name="kakao_app_key">07759ae8b89d841f5d6fc14b2a315a15</string>
+    <string name="kakao_scheme">kakao07759ae8b89d841f5d6fc14b2a315a15</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
